@@ -25,7 +25,7 @@
     "lodash.debounce": "^4.0.8",
     "lottie-react-native": "^1.2.0",
     "mao-rn-android-kit": "^0.5.0",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.3",
     "ms": "^2.0.0",
     "react": "^16.0.0-alpha.6",
     "react-native": "^0.44.3",
